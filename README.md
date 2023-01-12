@@ -1,4 +1,3 @@
-# CS22--Tanase-Diana
 #include <stdio.h>
 
 #define max 10
